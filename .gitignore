@@ -1,5 +1,6 @@
 FashionMNIST/
 MNIST/
+data/
 datasets/
 images/
 *.h5
