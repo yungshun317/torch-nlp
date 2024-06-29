@@ -1,0 +1,27 @@
+<filmography>
+  <actor>
+    <name>Tom Hanks</name>
+  </actor>
+  <actor>
+    <movies>
+      <movie><title>Big</title><year>1988</year><role>Josh Baskin</role></movie></movies>
+    <movies>
+      <movie><title>Forrest Gump</title><year>1994</year><role>Forrest Gump</role></movie></movies>
+    <movies>
+      <movie><title>Sleepless in Seattle</title><year>1993</year><role>Sam Baldwin</role></movie></movies>
+    <movies>
+      <movie><title>Saving Private Ryan</title><year>1998</year><role>Captain John H. Miller</role></movie></movies>
+    <movies>
+      <movie><title>Cast Away</title><year>2000</year><role>Chuck Noland</role></movie></movies>
+    <movies>
+      <movie><title>The Terminal</title><year>2004</year><role>Viktor Navorski</role></movie></movies>
+    <movies>
+      <movie><title>Catch Me If You Can</title><year>2002</year><role>Carl Hanratty</role></movie></movies>
+    <movies>
+      <movie><title>Bridge of Spies</title><year>2015</year><role>James B. Donovan</role></movie></movies>
+    <movies>
+      <movie><title>Sully</title><year>2016</year><role>Chesley 'Sully' Sullenberger</role></movie></movies>
+    <movies>
+      <movie><title>A Beautiful Day in the Neighborhood</title><year>2019</year><role>Fred Rogers</role></movie></movies>
+  </actor>
+</filmography>
