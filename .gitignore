@@ -3,6 +3,7 @@ MNIST/
 data/
 datasets/
 images/
+models/
 *.h5
 *.npy
 MANIFEST
