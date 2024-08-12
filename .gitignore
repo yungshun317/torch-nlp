@@ -4,6 +4,7 @@ data/
 datasets/
 images/
 models/
+my_trainer/
 *.h5
 *.npy
 MANIFEST
