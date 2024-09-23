@@ -17,6 +17,6 @@ NLP:
 
 CV:
 - `convolutional_neural_networks`
-- `variational_autoencoder`
+- `variational_autoencoders`
 - `generative_adversarial_networks`
 - `diffusers`
