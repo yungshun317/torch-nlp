@@ -5,6 +5,7 @@ datasets/
 images/
 models/
 my_trainer/
+test-trainer/
 *.h5
 *.npy
 MANIFEST
