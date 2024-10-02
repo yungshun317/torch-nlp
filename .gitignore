@@ -6,6 +6,7 @@ images/
 models/
 my_trainer/
 test-trainer/
+bert-finetuned-sem_eval-english/
 *.h5
 *.npy
 MANIFEST
