@@ -9,13 +9,19 @@ DL:
 
 NLP:
 - `text_preprocessing`
+- `hidden_markov_models`
+
 - `recurrent_neural_networks`
 - `sequence_to_sequence_learning`
+
 - `static_word_embeddings`
 - `contextualized_word_embeddings`
 - `self_supervised_learning`
+
+- `hugging_face_ecosystem`
 - `natural_language_understanding`
 - `natural_language_generation`
+
 - `prompt_engineering`
 - `large_language_models`
 
