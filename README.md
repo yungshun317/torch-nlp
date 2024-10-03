@@ -1,22 +1,30 @@
 # PyTorch Natural Language Processing
 
-NLP:
+DL:
 - `python_basics`
 - `tensors`
 - `pytorch_deep_learning_model_lifecycle`
 - `deep_neural_networks`
+- `regularization`
+
+NLP:
+- `text_preprocessing`
 - `recurrent_neural_networks`
 - `sequence_to_sequence_learning`
-- `text_preprocessing`
 - `static_word_embeddings`
 - `contextualized_word_embeddings`
+- `self_supervised_learning`
 - `natural_language_understanding`
 - `natural_language_generation`
 - `prompt_engineering`
-- `llama`
+- `large_language_models`
 
 CV:
 - `convolutional_neural_networks`
+- `masked_image_modeling`
+- `deep_metric_learning`
+- `self_distillation`
+- `canonical_correlation_analysis`
 - `variational_autoencoders`
 - `generative_adversarial_networks`
-- `diffusers`
+- `diffusion_models`

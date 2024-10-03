@@ -7,6 +7,7 @@ models/
 my_trainer/
 test-trainer/
 bert-finetuned-sem_eval-english/
+code-search-net-tokenizer/
 *.h5
 *.npy
 MANIFEST
