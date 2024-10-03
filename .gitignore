@@ -8,6 +8,7 @@ my_trainer/
 test-trainer/
 bert-finetuned-sem_eval-english/
 code-search-net-tokenizer/
+gpt2-finetuned-wikitext2/
 *.h5
 *.npy
 MANIFEST
