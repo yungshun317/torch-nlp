@@ -26,6 +26,10 @@ NLP:
 - `large_language_models`
 
 CV:
+- `opencv`
+- `facial_recognition`
+- `object_detection`
+
 - `convolutional_neural_networks`
 - `masked_image_modeling`
 - `deep_metric_learning`
