@@ -10,6 +10,7 @@ bert-finetuned-sem_eval-english/
 code-search-net-tokenizer/
 gpt2-finetuned-wikitext2/
 AutoGPTQ/
+trl/
 *.h5
 *.npy
 MANIFEST
