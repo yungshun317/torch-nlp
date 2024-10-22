@@ -11,6 +11,7 @@ code-search-net-tokenizer/
 gpt2-finetuned-wikitext2/
 AutoGPTQ/
 trl/
+runs/
 *.h5
 *.npy
 MANIFEST
